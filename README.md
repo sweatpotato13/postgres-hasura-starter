@@ -65,6 +65,8 @@
 ### Built With
 
 * [docker](https://www.docker.com/)
+* [hasura]()
+* [postgres]()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -81,6 +83,16 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    git clone https://github.com/sweatpotato13/postgres-hasura-starter.git
    ```
+
+2. copy .env.example to .env
+   ```sh
+   cp .env.example .env
+   ```
+
+3. run docker-compose
+    ```sh
+    docker-compose up -d
+    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
