@@ -20,7 +20,7 @@
 <h3 align="center">postgres-hasura-starter</h3>
 
   <p align="center">
-    postgres-hasura-starter
+    postgres-hasura-starter with postgres replication
     <br />
     <a href="https://github.com/sweatpotato13/postgres-hasura-starter"><strong>Explore the docs »</strong></a>
     <br />
