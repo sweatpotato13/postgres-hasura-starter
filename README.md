@@ -117,6 +117,6 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/sweatpotato13/nextjs-boilerplate](https://github.com/sweatpotato13/nextjs-boilerplate)
+Project Link: [https://github.com/sweatpotato13/postgres-hasura-starter](https://github.com/sweatpotato13/postgres-hasura-starter)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
